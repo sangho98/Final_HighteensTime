@@ -147,7 +147,7 @@ function Login(props) {
                     props.history.push("/register");
                   }}
                 >
-                  회원가입
+                  테스트
                 </Button>
               </Col>
             </Form.Group>
